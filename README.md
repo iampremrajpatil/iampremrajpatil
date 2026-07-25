@@ -65,7 +65,7 @@ I enjoy building projects, solving problems, and continuously improving my skill
 ## 📫 Connect with Me
 
 * GitHub: https://github.com/iampremrajpatil
-* Email: [iampremrajpatil@gmailcom](mailto:iampremrajpatil@gmail.com)
+* Email: [iampremrajpatil@gmail.com](mailto:iampremrajpatil@gmail.com)
 
 ---
 
