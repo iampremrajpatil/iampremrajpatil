@@ -64,9 +64,8 @@ I enjoy building projects, solving problems, and continuously improving my skill
 
 ## 📫 Connect with Me
 
-* GitHub: https://github.com/YOUR_USERNAME
-* LinkedIn: Add your LinkedIn profile here
-* Email: [your-email@example.com](mailto:your-email@example.com)
+* GitHub: https://github.com/Premraj Patil
+* Email: [iampremrajpatil@gmailcom](mailto:iampremrajpatil@gmail.com)
 
 ---
 
